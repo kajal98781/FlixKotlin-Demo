@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Flix</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">closed</string>
+    <string name="movies">Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="loading_wait">Loading wait...</string>
+    <string name="internet_connection">Internet connection is not available.</string>
+</resources>
